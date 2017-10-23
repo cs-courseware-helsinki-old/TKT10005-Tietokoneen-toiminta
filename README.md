@@ -1,0 +1,1 @@
+# TKT10005-Tietokoneen-toiminta
